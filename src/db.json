@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@jsdhaba.com",
+      "password": "admin123",
+      "role": "superuser"
+    }
+  ],
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Paneer Tikka Masala",
+      "category": "Main Course",
+      "price": 320,
+      "description": "Creamy tomato gravy with grilled paneer and spices.",
+      "spice": "Medium",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Butter Chicken",
+      "category": "Main Course",
+      "price": 360,
+      "description": "Tender chicken in buttery tomato gravy.",
+      "spice": "Mild",
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Dal Makhani",
+      "category": "Veg",
+      "price": 240,
+      "description": "Slow-cooked black lentils with cream and herbs.",
+      "spice": "Mild",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "orders": [],
+  "reservations": []
+}
